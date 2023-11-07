@@ -1,10 +1,10 @@
 # Data scienctist
 
 
-###education
+### education
 
 
-#work exprience
+### work exprience
 
-#Projects
+### Projects
 
