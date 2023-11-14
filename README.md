@@ -4,17 +4,45 @@
 
 ## Education
 - M.S., Data Science | The University of Texas at Austin (_May '24_)	 			        		
-- B.Tech., Industrial Engineering | Indian Institute of Technology Delhi (_July '20_)
+- B.Tech., Industrial Engg. | Indian Institute of Technology Delhi (_July '20_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Operations Research Intern, Dematic, Austin, TX (_June 2023 – Present_)**
 - Developed algorithms to record the occurrence of real-time exceptions in client-facing use cases of the Multishuttle
 - Created advanced simulation model and designed scenarios achieving 14% increase in the system supply rate (SimPy)
 - Authored two white papers in record time demonstrating 18% increase in uptime of newly patented machine technology by studying predictive maintenance using anomaly detection and sensor data analysis
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Machine Learning Intern, Sabre, Austin, TX (_Jan. 2023 – May 2023_)**
+• Processed data with BERT Transformer, XGBoost; Built 1600 user categories with hyperparameter tuning & clustering
+• Developed an ensemble ML model for a hybrid hotel recommender engine with 98% test accuracy using semi-supervised learning, LLMs, MAP@K, Matrix Factorization on user-agnostic features, hotel amenities, location and user reviews
+• Created environment for future A/B testing for Dallas and NYC, Built ML pipeline & demo UI interface for stakeholders
+
+**Co-founder & Head of Operations, Unexter Cycles, Ludhiana, India (_Nov. 2019 – Aug. 2022_)**
+• Created ARIMA model for demand prediction, achieving 30% increased forecast accuracy and 24% fewer stockouts
+• Evaluated KPIs based on geography, costs, vendors and margins using SQL and visualisation tools : PowerBI, Tableau
+• Increased brand engagement and customer satisfaction by 15% with a sentiment analysis (NLP) algorithm to analyze customer feedback allowing for targeted improvements in product design and quality control
+• Hired & supervised 30+ employees in data analytics, supply chain planning; set up sales & marketing teams in 16 states
+• Achieved revenue of $7 million in the first full year (2020) with Y-o-Y growth of 40% in the second year
+
+**Data Scientist, Bajaj Finserv, Pune, India (_July 2020 – July 2021_)**
+• Built ETL processes transforming 15 million user data on spending history, credit scores, transactions, dormancy status
+• Implemented dimensionality reduction, feature selection reducing data storage by 32% and increasing efficiency (R, SQL)
+• Increased fraud detection by 67% and estimated credit limit cap with an artificial neural network pipeline for customers
+• Collaborated with cross-functional teams on AI user stories for generative AI tools incl. T5 transformer on 3-in-1 app
+
+**Co-founder & Head of Operations, Unexter Cycles, Ludhiana, India (_Nov. 2019 – Aug. 2022_)**
+• Created ARIMA model for demand prediction, achieving 30% increased forecast accuracy and 24% fewer stockouts
+• Evaluated KPIs based on geography, costs, vendors and margins using SQL and visualisation tools : PowerBI, Tableau
+• Increased brand engagement and customer satisfaction by 15% with a sentiment analysis (NLP) algorithm to analyze customer feedback allowing for targeted improvements in product design and quality control
+• Hired & supervised 30+ employees in data analytics, supply chain planning; set up sales & marketing teams in 16 states
+• Achieved revenue of $7 million in the first full year (2020) with Y-o-Y growth of 40% in the second year
+
+**Co-founder & Head of Operations, Unexter Cycles, Ludhiana, India (_Nov. 2019 – Aug. 2022_)**
+• Created ARIMA model for demand prediction, achieving 30% increased forecast accuracy and 24% fewer stockouts
+• Evaluated KPIs based on geography, costs, vendors and margins using SQL and visualisation tools : PowerBI, Tableau
+• Increased brand engagement and customer satisfaction by 15% with a sentiment analysis (NLP) algorithm to analyze customer feedback allowing for targeted improvements in product design and quality control
+• Hired & supervised 30+ employees in data analytics, supply chain planning; set up sales & marketing teams in 16 states
+• Achieved revenue of $7 million in the first full year (2020) with Y-o-Y growth of 40% in the second year
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
