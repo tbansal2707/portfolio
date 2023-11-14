@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
 
 ## Education
 - M.S., Data Science | The University of Texas at Austin (_May '24_)	 			        		
