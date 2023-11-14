@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
 
 ## Education
-- M.S., Data Science | The University of Texas at Austin (_May '24_)	 			        		
-- B.Tech., Industrial Engg. | Indian Institute of Technology Delhi (_July '20_)
+- M.S. in Data Science, The University of Texas at Austin (_May '24_)	 			        		
+- B.Tech. in Industrial Engg., Indian Institute of Technology Delhi (_July '20_)
 
 ## Work Experience
 **Operations Research Intern, Dematic, Austin, TX (_June 2023 – Present_)**
