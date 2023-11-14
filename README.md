@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
+### Technical Skills: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
 
 ## Education
 - M.S. in Data Science, The University of Texas at Austin (_May '24_)	 			        		
@@ -30,12 +30,9 @@
 - Increased fraud detection by 67% and estimated credit limit cap with an artificial neural network pipeline for customers
 - Collaborated with cross-functional teams on AI user stories for generative AI tools incl. T5 transformer on 3-in-1 app
 
-**Co-founder & Head of Operations, Unexter Cycles, Ludhiana, India (_Nov. 2019 – Aug. 2022_)**
-• Created ARIMA model for demand prediction, achieving 30% increased forecast accuracy and 24% fewer stockouts
-• Evaluated KPIs based on geography, costs, vendors and margins using SQL and visualisation tools : PowerBI, Tableau
-• Increased brand engagement and customer satisfaction by 15% with a sentiment analysis (NLP) algorithm to analyze customer feedback allowing for targeted improvements in product design and quality control
-• Hired & supervised 30+ employees in data analytics, supply chain planning; set up sales & marketing teams in 16 states
-• Achieved revenue of $7 million in the first full year (2020) with Y-o-Y growth of 40% in the second year
+**Data Science Intern, Oriental Furnishers, Chandigarh, India (_Nov. 2019 – Jan. 2020_)**
+- Decreased data cleaning time by 75% by designing a Python script adaptable to handle diverse data sources
+- Employed multiple ML models (Regression, Random Forest, LSTM neural network etc.) for predictive demand analysis for a range of mattress SKUs, leading to a 15% reduction in excess inventory and improved supply chain efficiency
 
 **Co-founder & Head of Operations, Unexter Cycles, Ludhiana, India (_Nov. 2019 – Aug. 2022_)**
 • Created ARIMA model for demand prediction, achieving 30% increased forecast accuracy and 24% fewer stockouts
