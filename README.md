@@ -1,10 +1,10 @@
 # Data Scientist
 
-### Technical Skills: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
+#### Technical Skills: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
 
 ## Education
-- M.S. in Data Science, The University of Texas at Austin (_May '24_)	 			        		
-- B.Tech. in Industrial Engg., Indian Institute of Technology Delhi (_July '20_)
+### M.S. in Data Science, The University of Texas at Austin (_May '24_)	 			        		
+### B.Tech. in Industrial Engg, Indian Institute of Technology Delhi (_July '20_)
 
 ## Work Experience
 **Operations Research Intern, Dematic, Austin, TX (_June 2023 – Present_)**
@@ -30,51 +30,55 @@
 - Increased fraud detection by 67% and estimated credit limit cap with an artificial neural network pipeline for customers
 - Collaborated with cross-functional teams on AI user stories for generative AI tools incl. T5 transformer on 3-in-1 app
 
+**Product Management Intern, FrontRow, Bangalore, India (_May 2020 – July 2020_)**
+- Developed 3 expert taught courses handling pitch presentation, content curation, post-production, editing, marketing
+- Implemented Scrum framework to streamline workflow leading to a 22% reduction in project turnaround time
+
 **Data Science Intern, Oriental Furnishers, Chandigarh, India (_Nov. 2019 – Jan. 2020_)**
 - Decreased data cleaning time by 75% by designing a Python script adaptable to handle diverse data sources
 - Employed multiple ML models (Regression, Random Forest, LSTM neural network etc.) for predictive demand analysis for a range of mattress SKUs, leading to a 15% reduction in excess inventory and improved supply chain efficiency
 
-**Co-founder & Head of Operations, Unexter Cycles, Ludhiana, India (_Nov. 2019 – Aug. 2022_)**
-• Created ARIMA model for demand prediction, achieving 30% increased forecast accuracy and 24% fewer stockouts
-• Evaluated KPIs based on geography, costs, vendors and margins using SQL and visualisation tools : PowerBI, Tableau
-• Increased brand engagement and customer satisfaction by 15% with a sentiment analysis (NLP) algorithm to analyze customer feedback allowing for targeted improvements in product design and quality control
-• Hired & supervised 30+ employees in data analytics, supply chain planning; set up sales & marketing teams in 16 states
-• Achieved revenue of $7 million in the first full year (2020) with Y-o-Y growth of 40% in the second year
+**Operations Management Intern, The Coca-Cola Company, India (_May 2019 – July 2019_)**
+- Performed a detailed time study and proposed strategies to boost injection supply, leading to a 1.7% throughput increase
+- Stratified SKUs based on shape and purpose, analyzed rejection rates, resulting in 4.6% reduction in scrap costs
+- Calculated brute-force boiler efficiency and applied root cause analysis to increase the efficiency by 0.57%
+
+**Operations Engineering Intern, Oriental Furnishers, Chandigarh, India (_Nov. 2018 – Jan. 2019_)**
+- Built a local semi-automatic ERP model with automated reminders, and periodic data updation which led to an 12% decrease in inventory costs and 7% decrease in operational costs (Python, Excel VBA, Snowflake, SAS)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**User Equilibrium Traffic Assignment using Frank Wolfe Method (_Aug. 2023 – Present_)**
+[Link](https://www.mdpi.com/1424-8220/22/8/3048)
+- Developed a static traffic assignment model at user equilibrium, usable with travel demand data from city networks across the world.
+- Improved the performance by employing various strategies including Newton's method for root solution, vectorization of data structures
+- Created toll maximization strategies for the Sioux Falls network to optimise the total revenue collection from the city while minimizing total system travel time
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Hedonic Regression for Hotel Pricing (_Aug. 2022 – Dec. 2022_)**
+[Link](https://www.mdpi.com/1424-8220/22/11/4240)
+- Developed a regression model in R to understand the influence of multiple factors (seasonal, geographical, services) on hotel pricing
+- Extracted the data using web scraping and derived an optimal regressors dealing with multicollinearity and heteroskedasticity
+- Analysed the city-wise impact of factors and reasoned for the inconsistencies between the prices across cities and seasons
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Data Structures Applications(_May. 2023 – July 2023_)**
+[Link](https://www.mdpi.com/1424-8220/22/11/4240)
+- Built algorithms for 
+- Extracted the data using web scraping and derived an optimal regressors dealing with multicollinearity and heteroskedasticity
+- Analysed the city-wise impact of factors and reasoned for the inconsistencies between the prices across cities and seasons
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Machine Learning Applications (_Aug. 2022 – Dec. 2022_)**
+[Link](https://www.mdpi.com/1424-8220/22/11/4240)
+- 
+-
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+** Thesis 2 **
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Thesis 1 **
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- Bhaiya, D. et al. (2019) Comparative Study of Qualitative and Quantitative Hotels Reviews [Link](https://www.ijrdt.org/full_paper/39525/1021/Comparative-Study-of-Qualitative-and-Quantitative-reviews-in-Hotel-Industry)
+- Gupta, P. et al. (2019) Revisiting Organizational Structure - Case Study on P&G [Link](https://www.ijrdt.org/full_paper/40526/1021/Revisiting-Organizational-Structure-Case-study-on-P-G)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Certifications
+** Green Belt Certification In Lean Six Sigma Methodology From KPMG (_2021_)**
+
+** Deep Learning Specialization by Andrew Ng (Stanford University) - DeepLearning.AI (_June 2023 - Present_)**
