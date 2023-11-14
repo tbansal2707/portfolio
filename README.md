@@ -3,13 +3,14 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- M.S., Data Science (Operations Research) | The University of Texas at Austin (_Aug '22 -  May '24_)	 			        		
-- B.Tech., Industrial Engineering | Indian Institute of Technology Delhi (_July '16 - July '20_)
+- M.S., Data Science | The University of Texas at Austin (_May '24_)	 			        		
+- B.Tech., Industrial Engineering | Indian Institute of Technology Delhi (_July '20_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Developed algorithms to record the occurrence of real-time exceptions in client-facing use cases of the Multishuttle
+- Created advanced simulation model and designed scenarios achieving 14% increase in the system supply rate (SimPy)
+- Authored two white papers in record time demonstrating 18% increase in uptime of newly patented machine technology by studying predictive maintenance using anomaly detection and sensor data analysis
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
