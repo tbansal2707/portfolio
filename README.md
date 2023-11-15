@@ -92,4 +92,5 @@
 
 ## Certifications
 **Deep Learning Specialization by Andrew Ng (Stanford University) - Coursera x DeepLearning.AI (_June 2023 - Present_)**
+
 **Green Belt Certification In Lean Six Sigma Methodology From KPMG (_2021_)**
