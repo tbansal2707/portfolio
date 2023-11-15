@@ -46,6 +46,10 @@
 **Operations Engineering Intern, Oriental Furnishers, Chandigarh, India (_Nov. 2018 – Jan. 2019_)**
 - Built a local semi-automatic ERP model with automated reminders, and periodic data updation which led to an 12% decrease in inventory costs and 7% decrease in operational costs (Python, Excel VBA, Snowflake, SAS)
 
+**Research Intern, National Tsing Hua University, Taiwan (_May 2018 – July 2018_)**
+- Modelled a simulation to calculate dynamic force coefficients of bearings on MATLAB for a wide range of parametric and design constraints employing concepts of Finite Element Analysis, whirl instability, tribology
+- Developed a computational code to design membrane restrictors in an Opposed-Pad Hydrostatic Bearing that was used in the publication [Link](https://www.mdpi.com/2075-4442/10/8/179)
+
 ## Projects
 **User Equilibrium Traffic Assignment using Frank Wolfe Method (_Aug. 2023 – Present_)**
 [Link](https://github.com/tbansal2707/TrafficAssignment)
@@ -69,9 +73,16 @@
 - Worked on different popular datasets including Iris for linear regression, multilinear regression, logistic regression, bayesian probability models, Generative vs Discriminative models, SVMs, Decision Trees
 - Employed libraries including NumPy, Pandas, Sci-kit Learn, Matplotlib for for mathematical tools, data analysis, ML models and visualisation
 
-** Thesis 2 **
+**Thesis 2 : System Dynamics Model for Informal Waste Management (_Jan. 2020 – July 2020_)**
+[Link](https://github.com/tbansal2707/Thesis/blob/main/Thesis-2%20Report%20.pdf)
+- Built a System Dynamics model charting the informal waste system in Delhi & created separate models to analyse the impact of government policies on informal system; Proposed policy changes to current scenarios
+- Estimated 50+ parameters; Validated model using sensitivity analysis and 7 behavioral tests
+- Conducted comparative case study between Delhi and Bali models of informal sector using System Dynamics
 
-**Thesis 1 **
+**Thesis 1 : Simulation Model for Generic Natural Draft Furnaces (_July 2019 – Nov. 2019_)**
+[Link](https://github.com/tbansal2707/Thesis/blob/main/Thesis-1%20Report.pdf)
+- Computed energy parameters for components of furnace (pipes, combustion chamber, bends etc.) to design a MATLAB code configurable for different part arrangements, material properties, dimensions and ambient conditions creating energy, mass and temperature profiles over time and space
+- Verified the code with experimental results; Expanded usage to increase efficiency of furnaces in rural India
 
 ## Publications
 - Bhaiya, D. et al. (2019) Comparative Study of Qualitative and Quantitative Hotels Reviews [Link](https://www.ijrdt.org/full_paper/39525/1021/Comparative-Study-of-Qualitative-and-Quantitative-reviews-in-Hotel-Industry)
