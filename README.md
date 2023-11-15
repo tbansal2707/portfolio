@@ -48,7 +48,7 @@
 
 ## Projects
 **User Equilibrium Traffic Assignment using Frank Wolfe Method (_Aug. 2023 – Present_)**
-[Link](https://www.mdpi.com/1424-8220/22/8/3048)
+[Link](https://github.com/tbansal2707/TrafficAssignment)
 - Developed a static traffic assignment model at user equilibrium, usable with travel demand data from city networks across the world.
 - Improved the performance by employing various strategies including Newton's method for root solution, vectorization of data structures
 - Created toll maximization strategies for the Sioux Falls network to optimise the total revenue collection from the city while minimizing total system travel time
