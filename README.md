@@ -1,12 +1,15 @@
-#### Technical Skills: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
-
 ## Education
 ### The University of Texas at Austin (_Aug 2022 - May 2024_)
-#### M.S. in Data Science
-#### Teaching Assistant in McCombs School of Business
+- Masters in Data Science
+- Teaching Assistant in McCombs School of Business
 ### Indian Institute of Technology Delhi (_July 2016 - July 2020_)
-#### B.Tech. in Industrial Engineering
-#### Minor Degree in Business Management
+- B.Tech. in Industrial Engineering
+- Minor Degree in Business Management
+
+## Skills
+**Technical**: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
+**Packages**: Pandas, NumPy, Scikit-Learn, SciPy, SimPy, Matplotlib, XGBoost, Regex, TensorFlow, PyTorch
+**Statistical**: Classification, Regression, Clustering, Data Validation, Feature Engineering, Model Selection
 
 ## Work Experience
 **Operations Research Intern, Dematic, Austin, TX (_June 2023 – Present_)**
