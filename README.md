@@ -54,21 +54,20 @@
 - Created toll maximization strategies for the Sioux Falls network to optimise the total revenue collection from the city while minimizing total system travel time
 
 **Hedonic Regression for Hotel Pricing (_Aug. 2022 – Dec. 2022_)**
-[Link](https://www.mdpi.com/1424-8220/22/11/4240)
+[Link](https://github.com/tbansal2707/Hedonic-Regression)
 - Developed a regression model in R to understand the influence of multiple factors (seasonal, geographical, services) on hotel pricing
 - Extracted the data using web scraping and derived an optimal regressors dealing with multicollinearity and heteroskedasticity
 - Analysed the city-wise impact of factors and reasoned for the inconsistencies between the prices across cities and seasons
 
 **Data Structures Applications(_May. 2023 – July 2023_)**
-[Link](https://www.mdpi.com/1424-8220/22/11/4240)
-- Built algorithms for 
-- Extracted the data using web scraping and derived an optimal regressors dealing with multicollinearity and heteroskedasticity
-- Analysed the city-wise impact of factors and reasoned for the inconsistencies between the prices across cities and seasons
+[Link](https://github.com/tbansal2707/Data-Structures-Projects)
+- Built Java codes for Gale Shapley algorithm for assymetrical matching, Building Heaps and it's functions (Heapify Up, Heapify Down etc.), Dijkstra's algorithm for shortest path, Dynamic Programming code to optimise the response time of police stations in a neighborhood
+- Used multiple data structures including Linked Lists, Heaps, Priority Queues, Hash Tables (Dictionary)
 
 **Machine Learning Applications (_Aug. 2022 – Dec. 2022_)**
-[Link](https://www.mdpi.com/1424-8220/22/11/4240)
-- 
--
+[Link](https://github.com/tbansal2707/Machine-Learning-Projects)
+- Worked on different popular datasets including Iris for linear regression, multilinear regression, logistic regression, bayesian probability models, Generative vs Discriminative models, SVMs, Decision Trees
+- Employed libraries including NumPy, Pandas, Sci-kit Learn, Matplotlib for for mathematical tools, data analysis, ML models and visualisation
 
 ** Thesis 2 **
 
