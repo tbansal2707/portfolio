@@ -4,9 +4,9 @@
 
 ## Education
 ### M.S. in Data Science
-####The University of Texas at Austin (_May '24_)	 			        		
+#### The University of Texas at Austin (_Aug 2022 - May 2024_)	 			        		
 ### B.Tech. in Industrial Engg
-####Indian Institute of Technology Delhi (_July '20_)
+#### Indian Institute of Technology Delhi (_July 2016 - July 2020_)
 
 ## Work Experience
 **Operations Research Intern, Dematic, Austin, TX (_June 2023 – Present_)**
@@ -91,6 +91,5 @@
 - Gupta, P. et al. (2019) Revisiting Organizational Structure - Case Study on P&G [Link](https://www.ijrdt.org/full_paper/40526/1021/Revisiting-Organizational-Structure-Case-study-on-P-G)
 
 ## Certifications
+**Deep Learning Specialization by Andrew Ng (Stanford University) - Coursera x DeepLearning.AI (_June 2023 - Present_)**
 **Green Belt Certification In Lean Six Sigma Methodology From KPMG (_2021_)**
-
-**Deep Learning Specialization by Andrew Ng (Stanford University) - DeepLearning.AI (_June 2023 - Present_)**
