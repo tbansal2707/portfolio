@@ -1,6 +1,6 @@
 ## Education
 ### The University of Texas at Austin (_Aug 2022 - May 2024_)
-- Masters in Data Science
+- Masters in Operations Research (Data Science)
 - Teaching Assistant in McCombs School of Business
   
 ### Indian Institute of Technology Delhi (_July 2016 - July 2020_)
@@ -16,7 +16,7 @@
 
 ## Work Experience
 **Operations Research Intern, Dematic, Austin, TX (_June 2023 – Present_)**
-- Developed algorithms to record the occurrence of real-time exceptions in client-facing use cases of the Multishuttle
+- Developed algorithms to record the occurrence of real-time exceptions in client-facing use cases (Tesla, Whole Foods) of the Multishuttle
 - Created advanced simulation model and designed scenarios achieving 14% increase in the system supply rate (SimPy)
 - Authored two white papers in record time demonstrating 18% increase in uptime of newly patented machine technology by studying predictive maintenance using anomaly detection and sensor data analysis
 
