@@ -1,11 +1,14 @@
 ## Education
 ### The University of Texas at Austin (_Aug 2022 - May 2024_)
-- Masters in Operations Research (Data Science)
+- Masters in Operations Research (Data Science) (GPA : 3.96/4.00)
 - Teaching Assistant in McCombs School of Business
   
 ### Indian Institute of Technology Delhi (_July 2016 - July 2020_)
 - B.Tech. in Industrial Engineering
 - Minor Degree in Business Management
+
+## Courses
+Linear Programming, Non-Linear Programming, Applied Stochastic Processes, Decision Analysis, Adv. Operations Research, Supply Chain Analytics, Machine Learning
 
 ## Skills
 **Technical**: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
@@ -14,27 +17,39 @@
 
 **Statistical**: Classification, Regression, Clustering, Data Validation, Feature Engineering, Model Selection
 
+## Publications
+- Bhaiya, D. et al. (2019) Comparative Study of Qualitative and Quantitative Hotels Reviews [Link](https://www.ijrdt.org/full_paper/39525/1021/Comparative-Study-of-Qualitative-and-Quantitative-reviews-in-Hotel-Industry)
+- Gupta, P. et al. (2019) Revisiting Organizational Structure - Case Study on P&G [Link](https://www.ijrdt.org/full_paper/40526/1021/Revisiting-Organizational-Structure-Case-study-on-P-G)
+
+## Certifications
+**Deep Learning Specialization by Andrew Ng (Stanford University) - Coursera x DeepLearning.AI (_June 2023 - Present_)**
+
+**Green Belt Certification In Lean Six Sigma Methodology From KPMG (_2021_)**
+
 ## Work Experience
-**Operations Research Intern, Dematic, Austin, TX (_June 2023 – Present_)**
-- Developed algorithms to record the occurrence of real-time exceptions in client-facing use cases (Tesla, Whole Foods) of the Multishuttle
-- Created advanced simulation model and designed scenarios achieving 14% increase in the system supply rate (SimPy)
+**Operations Research Engineer, Dematic, Austin, TX (_June 2023 – Present_)**
+- Developed algorithms to record the occurrence of real-time exceptions in client-facing use cases (Tesla, Whole Foods) of the solution (Multishuttle)
+- Created advanced simulation model and designed scenarios achieving 14% increase in the system supply rate (SimPy, MasLite)
+- Efficiently streamlined historical data storage (inventory levels, forecasts, processing time) and analysis in Snowflake
+- Implementing inventory allocation strategy using constraint optimisation (Pyomo) to enhance process throughput
 - Authored two white papers in record time demonstrating 18% increase in uptime of newly patented machine technology by studying predictive maintenance using anomaly detection and sensor data analysis
 
 **Machine Learning Intern, Sabre, Austin, TX (_Jan. 2023 – May 2023_)**
-- Processed data with BERT Transformer, XGBoost; Built 1600 user categories with hyperparameter tuning & clustering
+• Processed over 1.3 million data records in Snowflake; Built 1600 user categories with hyperparameter tuning & clustering
 - Developed an ensemble ML model for a hybrid hotel recommender engine with 98% test accuracy using semi-supervised learning, LLMs, MAP@K, Matrix Factorization on user-agnostic features, hotel amenities, location and user reviews
-- Created environment for future A/B testing for Dallas and NYC, Built ML pipeline & demo UI interface for stakeholders
+- Created compelling data stories in Tableau, illustrating the influence of ML model insights on strategic business decisions
+- Created environment for future A/B testing for Dallas and NYC, Built ML pipeline & demo UI interface APIs in Streamlit for stakeholders
 
 **Co-founder & Head of Operations, Unexter Cycles, Ludhiana, India (_Nov. 2019 – Aug. 2022_)**
 - Created ARIMA model for demand prediction, achieving 30% increased forecast accuracy and 24% fewer stockouts
-- Evaluated KPIs based on geography, costs, vendors and margins using SQL and visualisation tools : PowerBI, Tableau
+- Evaluated KPIs based on geography, costs, vendors and margins using SQL and visualisation tools : PowerBI
 - Increased brand engagement and customer satisfaction by 15% with a sentiment analysis (NLP) algorithm to analyze customer feedback allowing for targeted improvements in product design and quality control
 - Hired & supervised 30+ employees in data analytics, supply chain planning; set up sales & marketing teams in 16 states
 - Achieved revenue of $7 million in the first full year (2020) with Y-o-Y growth of 40% in the second year
 
 **Data Scientist, Bajaj Finserv, Pune, India (_July 2020 – July 2021_)**
-- Built ETL processes transforming 15 million user data on spending history, credit scores, transactions, dormancy status
-- Implemented dimensionality reduction, feature selection reducing data storage by 32% and increasing efficiency (R, SQL)
+- Built ETL processes transforming 15 million user data on spending history, credit scores, transactions, dormancy status (Pyspark)
+- Implemented dimensionality reduction, feature selection reducing data storage by 32% and increasing efficiency ( Apache Hive, SQL)
 - Increased fraud detection by 67% and estimated credit limit cap with an artificial neural network pipeline for customers
 - Collaborated with cross-functional teams on AI user stories for generative AI tools incl. T5 transformer on 3-in-1 app
 
@@ -91,12 +106,3 @@
 [Link](https://github.com/tbansal2707/Thesis/blob/main/Thesis-1%20Report.pdf)
 - Computed energy parameters for components of furnace (pipes, combustion chamber, bends etc.) to design a MATLAB code configurable for different part arrangements, material properties, dimensions and ambient conditions creating energy, mass and temperature profiles over time and space
 - Verified the code with experimental results; Expanded usage to increase efficiency of furnaces in rural India
-
-## Publications
-- Bhaiya, D. et al. (2019) Comparative Study of Qualitative and Quantitative Hotels Reviews [Link](https://www.ijrdt.org/full_paper/39525/1021/Comparative-Study-of-Qualitative-and-Quantitative-reviews-in-Hotel-Industry)
-- Gupta, P. et al. (2019) Revisiting Organizational Structure - Case Study on P&G [Link](https://www.ijrdt.org/full_paper/40526/1021/Revisiting-Organizational-Structure-Case-study-on-P-G)
-
-## Certifications
-**Deep Learning Specialization by Andrew Ng (Stanford University) - Coursera x DeepLearning.AI (_June 2023 - Present_)**
-
-**Green Belt Certification In Lean Six Sigma Methodology From KPMG (_2021_)**
