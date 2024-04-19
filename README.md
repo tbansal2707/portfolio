@@ -7,8 +7,8 @@
 - B.Tech. in Industrial Engineering
 - Minor Degree in Business Management
 
-## Courses
-Linear Programming, Non-Linear Programming, Applied Stochastic Processes, Decision Analysis, Adv. Operations Research, Supply Chain Analytics, Machine Learning
+## Key Courses
+Linear Programming, Non-Linear Programming, Applied Stochastic Processes, Decision Analysis, Transportation Network Analysis, Supply Chain Analytics, Machine Learning, Database Management, Data Structures & Algorithms, Operations Management, Linear Algebra, Statistics & Probability
 
 ## Skills
 **Technical**: Python, SQL, R, Java, HTML, MATLAB, Excel, SAS, PowerBI, Tableau, Google Analytics
